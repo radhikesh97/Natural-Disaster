@@ -1,4 +1,4 @@
 # Natural-Disaster
 Natural Disaster prediction
 
-This is a project which aims at predicting occurance natural disaster in a place.
+This is a project which aims at predicting occurance of natural disaster in a place.
